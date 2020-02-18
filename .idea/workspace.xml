@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2e0ac2b-ee74-45d2-9de9-52c53e54f660" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xp6vqjgA0k1b7FpMpQKmC05TDs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.testeBottle">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeBottle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testeBottle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testeBottle" />
+        <item itemvalue="Python.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="88" key="#Updates" timestamp="1581731970000">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="88" key="#Updates/0.0.1440.860@0.0.1440.860" timestamp="1581731970000" />
+    <state x="542" y="345" key="Github.CreateGistDialog" timestamp="1581991431079">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="542" y="345" key="Github.CreateGistDialog/0.0.1440.860@0.0.1440.860" timestamp="1581991431079" />
+    <state width="681" height="214" key="GridCell.Tab.0.bottom" timestamp="1581902203653">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="681" height="214" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581902203653" />
+    <state width="681" height="214" key="GridCell.Tab.0.center" timestamp="1581902203653">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="681" height="214" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1581902203653" />
+    <state width="681" height="214" key="GridCell.Tab.0.left" timestamp="1581902203653">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="681" height="214" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1581902203653" />
+    <state width="681" height="214" key="GridCell.Tab.0.right" timestamp="1581902203653">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="681" height="214" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1581902203653" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1581991395735">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581991395735" />
+  </component>
+</project>
